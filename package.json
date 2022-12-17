@@ -1,0 +1,26 @@
+{
+  "name": "chatgpt-bot",
+  "version": "1.0.0",
+  "description": "chatGPT but Discord bot version.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "chatgpt-bot",
+    "chatgpt",
+    "discord",
+    "bot"
+  ],
+  "author": "Ahnnee",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
