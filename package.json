@@ -13,7 +13,7 @@
     "discord",
     "bot"
   ],
-  "author": "Ahnnee",
+  "author": "3raphat",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.7.1",
