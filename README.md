@@ -1,5 +1,7 @@
 # chatGPT-discord-bot
 
+packages that I use: discord.js, openai
+
 ## Installation
 
 Clone the repo on your system:
