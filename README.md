@@ -1,6 +1,6 @@
 # chatGPT-discord-bot
 
-packages that I use: discord.js, openai
+packages that I use: [discord.js](https://discord.js.org), [openai](https://openai.com)
 
 ## Installation
 
