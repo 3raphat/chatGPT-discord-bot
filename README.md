@@ -7,7 +7,7 @@ packages that I use: [discord.js](https://discord.js.org), [openai](https://open
 Clone the repo on your system:
 
 ```
-git clone https://github.com/3raphat/simple-discord-bot-template.git
+git clone https://github.com/3raphat/chatGPT-discord-bot.git
 ```
 
 Then, navigate to the directory and install the npm packages:
