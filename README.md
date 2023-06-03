@@ -18,12 +18,10 @@ npm install
 
 ## Configuration
 
-Rename `.env.example` to `.env` and fill out the values:
+Copy the `.env.example` to `.env` and fill out the values:
 
 ```
-TOKEN=
-CLIENT_ID=
-OPENAI_API_KEY=
+cp .env.example .env
 ```
 
 ### How to generate a OpenAI API key
